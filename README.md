@@ -1,4 +1,5 @@
 # Project-69
-List project 
-Author Ayush raj 
+This is my first Git Repository 
+<br>
+Author - Ayush raj 
  
